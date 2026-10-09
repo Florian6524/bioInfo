@@ -1,0 +1,1 @@
+1. Implement an application that is able to convert the coding region of a gean into an aminoacid sequence. Use the genetic code table from the slide. It should start when it encounters "AUG" and stop when it encounter any of the 3 stop codons

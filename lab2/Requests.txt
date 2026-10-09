@@ -1,2 +1,0 @@
-1. Implement an aplication that is able to convert the coding region of a gean into an aminoacid sequence. Use the genetic
-code table from the slide.
