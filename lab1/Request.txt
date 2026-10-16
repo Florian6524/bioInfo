@@ -1,0 +1,7 @@
+1. Design a software aplication that is able to analyse a dna sequence S = "invent a sequence of dna about 20 characters" (ATCG)
+
+S = "ATCGCGTCGATCGATGTACG"
+
+The output of the application must show the frequency for each letter in the alphabet of the sequence
+
+2. Find the frequency for all the combination of 2 and 3 letters and plot those frequencies in a chart
