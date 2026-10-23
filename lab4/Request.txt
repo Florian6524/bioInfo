@@ -1,0 +1,3 @@
+We take a genome and an interval [a, b]. We should be able to split the genome in subsequences of a random number in the given interval.
+
+Then you take an input collection of subsequences and you have to rebuild the genome. The subsequences can overlap, but the minimum number of overlaps has to be at least 10.
