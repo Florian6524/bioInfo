@@ -1,1 +1,4 @@
-request tba
+Ex1. Make an artificial DNA sequence of 200–400 bases in length, in which to simulate 3–4 transposable elements.
+
+Ex2. Implement a software application to detect the positions of these transposable elements (start, end) within the created DNA sequence. (Note: Intersect two or three transposons to see how the algorithm behaves in such situations.)
+
