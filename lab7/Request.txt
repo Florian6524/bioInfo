@@ -1,1 +1,4 @@
-add here
+1. Take a fasta file from ncbi and we need to do the following: create a brute force engine that creates all combinations of A, T, C, G. It mush take each combination and try to find it in the DNA sequence. once it finds it, it must search for the inverted complementary sequence and, if it finds it, that will be the transposom. The output must say the starting index and length of the sequence. We must also have a function that will compute the reverse complementary of the sequence, for better structure.
+
+There are 3 possible scenarios: the transposoms are completely separate from eachother, the transposorm intersect/overlap eachother only to some extend, or one transposom is completely inside of another.
+
